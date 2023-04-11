@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chasing-the-clicks/static/css/main.073c9b0a.css",
+    "main.js": "/chasing-the-clicks/static/js/main.20196798.js",
+    "static/js/787.a7274b62.chunk.js": "/chasing-the-clicks/static/js/787.a7274b62.chunk.js",
+    "static/media/logo.svg": "/chasing-the-clicks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chasing-the-clicks/index.html",
+    "main.073c9b0a.css.map": "/chasing-the-clicks/static/css/main.073c9b0a.css.map",
+    "main.20196798.js.map": "/chasing-the-clicks/static/js/main.20196798.js.map",
+    "787.a7274b62.chunk.js.map": "/chasing-the-clicks/static/js/787.a7274b62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.20196798.js"
+  ]
+}
